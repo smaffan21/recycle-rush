@@ -1,4 +1,3 @@
-
 # Recycle Rush V8.0
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -12,7 +11,7 @@ Our goal was to build an innovative game aimed at promoting some of the 17 Susta
 
 With the use of Unity, we developed "Recycle Rush", a captivating mobile game designed for children aged 5-11. We cleverly incorporated disguised "pods" of education within the game, educating players about the significance of ethics in recycling. By tracking the score in kilowatt-hours (kWh) instead of traditional points and replacing checkpoints with enjoyable quizzes, we made the learning experience entertaining.
 
-### Tools Used
+## Tools Used
 
 - Unity
 - C#
@@ -22,7 +21,8 @@ With the use of Unity, we developed "Recycle Rush", a captivating mobile game de
 - FL Studio 20
 
 <!-- CONTACT -->
-### Contact
+## Contact
+LinkedIn - https://www.linkedin.com/in/syed-m-affan/
 
 Instagram - https://www.instagram.com/smaffan21/
 
