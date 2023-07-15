@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: faf5f938a0c62d84087b957a931d267b
+  - enabled: 1
+    path: Assets/Scenes/ArcadeMode.unity
+    guid: d36a11d43cbf49345be00be04d53b286
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 72316147fe95c054abacba51a3a1eebd
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/PlasticQuiz.unity
+    guid: b5cbdebeb577a7742ab7b1bb7020c227
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: d0bb390f1e8267d469660fc2a7738ddd
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/PaperQuiz.unity
+    guid: 6d4baddc1da508948bc70ce1ea5f6644
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 5d82b224abea62445a6c174519c5ca16
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/MetalQuiz.unity
+    guid: bcc77d2995d623f47a6941eedc0f42d6
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 2733e72d3b6b5624682fc08cc4830663
+  - enabled: 1
+    path: Assets/Scenes/Quizzes/GlassQuiz.unity
+    guid: 7072b81c91869d640996a5779f25b198
+  - enabled: 1
+    path: Assets/Scenes/WinningScene.unity
+    guid: 1df706792cf89d54988302b370ab4ee3
+  - enabled: 1
+    path: Assets/Scenes/FunFact.unity
+    guid: 2cdabadfc41dab943b47d0b8701bc2d6
+  - enabled: 1
+    path: Assets/Scenes/ArcadeSummary.unity
+    guid: 31070a2d62416a34fbac870a33caaef1
+  - enabled: 1
+    path: Assets/Scenes/KWHInfo.unity
+    guid: 6262aeef7e007054f8158c01bd87dcdb
+  m_configObjects: {}
